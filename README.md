@@ -9,10 +9,10 @@
 
 > 📂 Add your screenshots inside a folder named `screenshots/` and update the file names.
 
-![Home Page](./screenshots/home-page.png)  
-![Product Listing](./screenshots/product-list.png)  
-![Cart & Checkout](./screenshots/cart-checkout.png)  
-![Seller Dashboard](./screenshots/seller-dashboard.png)  
+![Home Page](./screenshot/home-page.png)  
+![Product Listing](./screenshot/product-list.png)  
+![Cart & Checkout](./screenshot/cart-checkout.png)  
+![Seller Dashboard](./screenshot/seller-dashboard.png)  
 
 ---
 
