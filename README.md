@@ -7,13 +7,11 @@
 
 ## 📸 Screenshots  
 
-> 📂 Add your screenshots inside a folder named `screenshots/` and update the file names.
-
 ![Home Page](./screenshot/home-page.png)  
 ![Product Listing](./screenshot/product-list.png)  
 ![Cart & Checkout](./screenshot/cart-checkout.png)  
-![Seller Dashboard](./screenshot/seller-dashboard.png)  
-
+![Seller Dashboard](./screenshot/seller-dashboard-additem.png)  
+![Seller Dashboard](./screenshot/seller-dashboard-products.png) 
 ---
 
 ## 📌 Overview  
