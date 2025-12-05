@@ -5,14 +5,22 @@
 
 ---
 
-## 📸 Screenshots  
+## 📸 App Showcase  
 
-![Home Page](./screenshot/home-page.png)  
-![Product Listing](./screenshot/product-list.png)  
-![Cart & Checkout](./screenshot/cart-checkout.png)  
-![Seller Dashboard](./screenshot/seller-dashboard-additem.png)  
-![Seller Dashboard](./screenshot/seller-dashboard-products.png) 
----
+### 🏠 Home Page  
+![Home Page](./screenshot/home-page.png "Home Page Screenshot")
+
+### 🛍️ Product Listing  
+![Product Listing](./screenshot/product-list.png "Product Listing Screenshot")
+
+### 🛒 Cart & Checkout  
+![Cart & Checkout](./screenshot/cart-checkout.png "Cart & Checkout Screenshot")
+
+### 🏪 Seller Dashboard – Add Item  
+![Seller Dashboard Add Item](./screenshot/seller-dashboard-additem.png "Seller Dashboard Add Item Screenshot")
+
+### 📦 Seller Dashboard – Product List  
+![Seller Dashboard Products](./screenshot/seller-dashboard-products.png "Seller Dashboard Products Screenshot")
 
 ## 📌 Overview  
 
