@@ -8,6 +8,6 @@ const orderRouter = express.Router();
 orderRouter.post('/cod', authUser, placeOrderCOD)
 orderRouter.get('/user', authUser, getUserOrders)
 orderRouter.get('/seller', authSeller, getAllOrders)
-// orderRouter.post('/stripe', authUser, placeOrderStripe)
+orderRouter.post('/stripe', authUser, placeOrderStripe)
 
 export default orderRouter;
